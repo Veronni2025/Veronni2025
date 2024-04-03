@@ -1,5 +1,5 @@
 👋 Olá, sou @Veronni2025!
-👀 Estou interessado em aprender e crescer como desenvolvedora de software.
+👀 Estou interessada em aprender e crescer como desenvolvedora de software.
 🌱 Atualmente, estou aprendendo Python e explorando diferentes áreas da programação.
 💞️ Estou procurando colaborar em projetos de código aberto e trabalhar em equipe para construir soluções inovadoras.
 📫 Você pode me contatar através do meu e-mail veronni2025@example.com.
