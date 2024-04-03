@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Veronni2025
--👀 I’m interested in learning and growing as a software developer.
--🌱 I’m currently learning Python and exploring different areas of programming.
--💞️ I’m looking to collaborate on open-source projects and work with teams to build innovative solutions.
--📫 You can reach me via my email at veronica.programacao@gmail.com.
--⚡ Fun fact: I'm an avid collector of memes and love sharing them with my friends!
+👋 Olá, sou @Veronni2025!
+👀 Estou interessado em aprender e crescer como desenvolvedora de software.
+🌱 Atualmente, estou aprendendo Python e explorando diferentes áreas da programação.
+💞️ Estou procurando colaborar em projetos de código aberto e trabalhar em equipe para construir soluções inovadoras.
+📫 Você pode me contatar através do meu e-mail veronni2025@example.com.
+⚡ Curiosidade divertida: Sou uma ávida colecionadora de memes e adoro compartilhá-los com meus amigos!
 
 <!---
 Veronni2025/Veronni2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
